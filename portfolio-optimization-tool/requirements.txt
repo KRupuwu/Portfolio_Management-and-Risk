@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy>=1.9
+matplotlib
+yfinance>=0.2.40
